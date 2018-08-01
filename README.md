@@ -1,6 +1,4 @@
 # Sample-Survey-Form
-
-FCC: Survey Form
 ----------------
 
 
